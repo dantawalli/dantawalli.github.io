@@ -3,7 +3,10 @@ body{
     color:#fff;
 }
 @media screen and (max-width:480px){
-    
+    form{
+    margin-left:120px
+    }
+} 
 form{
     font-size: 1.1em;
     margin: 0 auto;

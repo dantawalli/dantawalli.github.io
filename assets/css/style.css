@@ -251,7 +251,8 @@ img{
     text-align: center;
 }
 .skills-all-text{
-   text-align: center; 
+   text-align: center;
+   display:block;
 }
 .skills__subtitle{
     margin-bottom: var(--mb-2);
@@ -294,7 +295,7 @@ img{
 }
 
 .skills_css{
-    width:95%
+    width:80%
 }
 
 .skills_js{
@@ -302,14 +303,14 @@ img{
 }
 
 .skills_ux{
-    width:85%
+    width:70%
 }
 .skills_mysql{
-    width:85%
+    width:75%
 }
 
 .skills_php{
-    width:95%
+    width:75%
 }
 
 .skills_react{
@@ -344,7 +345,7 @@ img{
 }
 
 .skills_java{
-    width:95%
+    width:70%
 }
 .skills_img{
     border-radius: .5rem;

@@ -250,6 +250,9 @@ img{
     row-gap: 2rem;
     text-align: center;
 }
+.skills-all-text{
+   text-align: center; 
+}
 .skills__subtitle{
     margin-bottom: var(--mb-2);
 }
